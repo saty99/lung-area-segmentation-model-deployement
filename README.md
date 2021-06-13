@@ -1,4 +1,4 @@
-# Lung Area Segmentation using Bidirectional Convolutional UNet and deployment of the model uisng fast api and docker over AWS EC2 instance
+# Lung Area Segmentation using Bidirectional Convolutional LSTM UNet and deployment of the model uisng fast api and docker over AWS EC2 instance
 
 ![](images/arch.jpg)
 
