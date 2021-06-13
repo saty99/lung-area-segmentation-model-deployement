@@ -40,7 +40,6 @@ o	ConvLSTM [5] was proposed to solve this problem,  and convolution operations b
 
 ![](images/img4.png)
 ![](images/img5.png)
-![](images/img6.png)
 
 ###References
 [1] Azad, Reza, et al. "Bi-directional ConvLSTM U-net with Densley connected convolutions." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2019.
